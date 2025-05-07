@@ -13,6 +13,13 @@
     "expiresAt": "2025-5-8",
     "allowOffline": false
   },
+    {
+    "id": "f0f57611b1c28def",
+    "username": "Vince",
+    "password": "VincePogi",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
